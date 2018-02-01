@@ -1,0 +1,7 @@
+quote
+       quote      
+quote 1
+quote a
+quote123
+quot
+quit

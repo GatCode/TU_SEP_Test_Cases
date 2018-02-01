@@ -1,0 +1,16 @@
+sep> sep> sep> [ERR] Usage: setweather <cover> <precipitation> <temperature> <wind>
+sep> [ERR] Wrong parameter.
+sep> [ERR] Wrong parameter.
+sep> [ERR] Wrong parameter.
+sep> [ERR] Wrong parameter.
+sep> [ERR] Usage: setweather <cover> <precipitation> <temperature> <wind>
+sep> [ERR] Usage: setweather <cover> <precipitation> <temperature> <wind>
+sep> [ERR] Wrong parameter.
+sep> [ERR] Unknown command.
+sep> [ERR] Usage: setweather <cover> <precipitation> <temperature> <wind>
+sep> [ERR] Usage: setweather <cover> <precipitation> <temperature> <wind>
+sep> [ERR] Wrong parameter.
+sep> [ERR] Wrong parameter.
+sep> [ERR] Wrong parameter.
+sep> [ERR] Wrong parameter.
+sep> sep> Going out of business!

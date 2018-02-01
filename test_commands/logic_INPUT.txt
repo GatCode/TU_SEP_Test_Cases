@@ -1,0 +1,25 @@
+setweather 0 0 33.5 0
+recipe 6 6 88
+buy 2500 2500
+balance
+play
+balance
+setweather 0 0 33.5 0
+recipe 18 18 64
+buy 25000 25000
+balance
+play
+balance
+setweather 0 0 16.5 0
+recipe 3 8 89
+balance
+play
+balance
+setweather 0 0 33.5 0
+recipe 0 2 98
+buy 10 10
+buy 20 20
+balance
+play
+balance
+quit

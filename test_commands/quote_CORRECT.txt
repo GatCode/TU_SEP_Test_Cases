@@ -1,0 +1,9 @@
+sep> L: 1 $
+S: 1 $
+sep> L: 1 $
+S: 1 $
+sep> [ERR] Usage: quote
+sep> [ERR] Usage: quote
+sep> [ERR] Unknown command.
+sep> [ERR] Unknown command.
+sep> Going out of business!

@@ -1,0 +1,8 @@
+balance
+setweather 0 0 30 0
+buy 2000 2000
+play
+balance
+setweather 0 0 12.2 0
+play
+quit

@@ -1,0 +1,21 @@
+recipe
+recipe 21 12 67
+recipe 9 40 51
+recipe 10 40 50
+recipe 9 41 50
+recipe 9 41 51
+recipe 9 41 49
+recipe 9 41
+recipe 9 41 50 2
+recipe
+reciep
+reciPe and som bogus params
+reciPE
+recipE and 1 strings
+recipe 1.5 1.5 1.5
+recipe 10 10 10
+Recipe 10 10 80
+reCipe 6 11 83
+rEcipe 15 10 75
+recipe
+quit

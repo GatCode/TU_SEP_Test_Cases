@@ -1,0 +1,66 @@
+sep> sep> L: 6%
+S: 6%
+W: 88%
+sep> Bought:
+L: 2500
+S: 2500
+sep> L: 2600
+S: 2600
+----------
+C: 0 $
+B: 0 $
+sep> sep> L: 1096
+S: 344
+----------
+C: 7500 $
+B: 2500 $
+sep> sep> L: 18%
+S: 18%
+W: 64%
+sep> [WARN] Not enough money. I buy what I can.
+Bought:
+L: 3750
+S: 3750
+sep> L: 4846
+S: 4094
+----------
+C: 0 $
+B: 2500 $
+sep> sep> L: 4846
+S: 4094
+----------
+C: 0 $
+B: -7500 $
+sep> sep> L: 3%
+S: 8%
+W: 89%
+sep> L: 4846
+S: 4094
+----------
+C: 0 $
+B: -7500 $
+sep> sep> L: 4246
+S: 1694
+----------
+C: 6000 $
+B: 6000 $
+sep> sep> L: 0%
+S: 2%
+W: 98%
+sep> Bought:
+L: 10
+S: 10
+sep> Bought:
+L: 20
+S: 20
+sep> L: 4276
+S: 1724
+----------
+C: 5940 $
+B: 6000 $
+sep> sep> L: 4276
+S: 1196
+----------
+C: 11190 $
+B: 5190 $
+sep> Going out of business!

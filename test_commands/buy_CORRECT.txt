@@ -1,0 +1,27 @@
+sep> Bought:
+L: 2500
+S: 2499
+sep> [WARN] Not enough money. I buy what I can.
+Bought:
+L: 0
+S: 1
+sep> [ERR] Usage: buy <lemon> <sugar>
+sep> [ERR] Usage: buy <lemon> <sugar>
+sep> [ERR] Usage: buy <lemon> <sugar>
+sep> [ERR] Unknown command.
+sep> [ERR] Wrong parameter.
+sep> [ERR] Usage: buy <lemon> <sugar>
+sep> [ERR] Usage: buy <lemon> <sugar>
+sep> [ERR] Wrong parameter.
+sep> [ERR] Wrong parameter.
+sep> [ERR] Wrong parameter.
+sep> [WARN] Not enough money. I buy what I can.
+Bought:
+L: 0
+S: 0
+sep> [WARN] Not enough money. I buy what I can.
+Bought:
+L: 0
+S: 0
+sep> [ERR] Wrong parameter.
+sep> Going out of business!

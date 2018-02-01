@@ -1,0 +1,3 @@
+sep> [ERR] Usage: quit
+sep> [ERR] Unknown command.
+sep> Going out of business!

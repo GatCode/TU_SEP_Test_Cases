@@ -1,0 +1,8 @@
+echo hello world
+echo      hello     world         
+echo
+ECHO WHO KNOWS IF P=NP?????
+ech
+e cho
+EcHo The answer on everything is 42 =)\n
+quit

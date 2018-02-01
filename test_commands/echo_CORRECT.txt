@@ -1,0 +1,8 @@
+sep> hello world
+sep> hello world
+sep> 
+sep> WHO KNOWS IF P=NP?????
+sep> [ERR] Unknown command.
+sep> [ERR] Unknown command.
+sep> The answer on everything is 42 =)\n
+sep> Going out of business!

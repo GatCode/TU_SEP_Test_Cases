@@ -1,0 +1,4 @@
+sep> sep> sep> [ERR] Usage: play
+sep> [ERR] Usage: play
+sep> [ERR] Unknown command.
+sep> Going out of business!

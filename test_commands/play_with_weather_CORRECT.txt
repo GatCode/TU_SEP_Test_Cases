@@ -1,0 +1,14 @@
+sep> L: 100
+S: 100
+----------
+C: 5000 $
+B: 0 $
+sep> sep> Bought:
+L: 2000
+S: 2000
+sep> sep> L: 700
+S: 0
+----------
+C: 8000 $
+B: 3000 $
+sep> sep> sep> Going out of business!

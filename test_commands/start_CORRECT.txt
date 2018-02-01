@@ -1,0 +1,3 @@
+[ERR] Wrong usage: ./basic <price_lemonade> <price_lemon> <price_sugar>
+[ERR] Wrong usage: ./basic <price_lemonade> <price_lemon> <price_sugar>
+[ERR] Wrong usage: ./basic <price_lemonade> <price_lemon> <price_sugar>

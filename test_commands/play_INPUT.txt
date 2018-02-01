@@ -1,0 +1,6 @@
+play
+    play    
+play 1
+play abc
+pla
+quit
